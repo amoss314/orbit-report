@@ -1,0 +1,33 @@
+
+.div1{
+ background-color:turquoise;
+ }
+ .div2{
+   align-content: right;
+ }
+
+p{
+  padding-top: 25px;
+  padding-right: 30px;
+  padding-bottom: 25px;
+  padding-left: 80px;
+  color: blue;
+}
+h2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: brown;
+}
+#begin{
+  color: purple;
+  font-size: xx-large;
+  text-align: center;
+}
+img {
+  border-radius: 50%;
+  }
+body {
+  background-color: lightblue;
+}
