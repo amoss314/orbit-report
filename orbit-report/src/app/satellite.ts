@@ -13,4 +13,9 @@ constructor(name: string, type: string, launchDate: string, orbitType: string, o
     this.launchDate = launchDate;
 }
 
+isSpaceDebris(): boolean{
+    console.log("isSpaceDebris");
+    return this.type==="Space Debris";
+}
+
 }
